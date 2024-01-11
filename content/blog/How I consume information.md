@@ -1,5 +1,5 @@
 +++
-name = "How I Consume Information"
+title = "How I Consume Information"
 date = "2024-01-04"
 description = "The author shares his own information consumption process. Faced with numerous information sources, the author does not read everything every week, but reads selectively. The entire process reflects effective information screening and processing methods, and I hope this can inspire readers to find information consumption strategies that suit them."
 taxonomies.tags = [
