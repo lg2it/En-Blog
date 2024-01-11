@@ -1,6 +1,6 @@
-title = "Zola ʕ•ᴥ•ʔ Bear Blog"
-base_url = "https://zola-bearblog.netlify.app/"
-description = "A Zola-theme based on Bear Blog."
+title = "JustGoIdea"
+base_url = "https://en.justgoidea.com"
+description = "English Blog of JustGoIdea"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = false
@@ -23,13 +23,13 @@ date_format="%d %b, %Y"
 webserver_sends_csp_headers=true
 
 [[extra.main_menu]]
-name = "Bear"
-url = "@/bear.md"
-
-[[extra.main_menu]]
-name = "Zola"
-url = "@/zola.md"
-
-[[extra.main_menu]]
 name = "Blog"
 url = "@/blog/_index.md"
+
+[[extra.main_menu]]
+name = "About"
+url = "@/about.md"
+
+[[extra.main_menu]]
+name = "CN"
+url = "https://justgoidea.com"
